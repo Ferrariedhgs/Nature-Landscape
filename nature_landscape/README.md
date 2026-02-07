@@ -2,6 +2,7 @@ Synthetic nature landscape dataset made using the [SSD-1B](https://huggingface.c
 
 ## Prompt used for generation
 Pozitive prompt: realistic nature landscape
+
 Negative prompt: ugly, blurry, poor quality, text, watermark
 
 ## Hardware
@@ -23,5 +24,5 @@ Images were generated using:
 - **License**: Apache-2.0
 - **Source**: Hugging Face
 
-##License
+## License
 Released under Apache 2.0 License, same as the model.
