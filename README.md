@@ -1,5 +1,14 @@
 Synthetic nature landscape dataset made using the [SSD-1B](https://huggingface.co/segmind/SSD-1B) text-to-image model
 
+This dataset is hosted on [HuggingFace](https://huggingface.co/datasets/ferrariedhgs/Nature-Landscape)
+
+## Usage
+```python
+from datasets import load_dataset
+
+ds = load_dataset("ferrariedhgs/Nature-Landscape")
+```
+
 ## Prompt used for generation
 Pozitive prompt: realistic nature landscape
 
