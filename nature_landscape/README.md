@@ -11,8 +11,7 @@ Ran on an RTX 2060 Super (8GB VRAM) for ~1.5h
 - **Type**: Synthetic image dataset
 - **Images**: PNG
 - **Generation**: Text-to-image diffusion model
-- **Resolution**: 768×768
-- **Purpose**: Research / training / benchmarking
+- **Resolution**: 512x512
 
 ## Generation Details
 1024 images, the seed for each one is the id. Manually removed the junk images (some were generated as paintings on walls or multiple pictures in one) and generated more to fit the target count
