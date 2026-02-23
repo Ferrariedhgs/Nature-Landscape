@@ -278,63 +278,61 @@
 {"image": "image_288.png", "text": "path, hills, mountains, birds, hills, trees"}
 {"image": "image_289.png", "text": "mountains, trees, river"}
 {"image": "image_290.png", "text": "hills, river, mountains, forest"}
-{"image": "image_291.png", "text": "trees, forest, mountains, river"}
-{"image": "image_292.png", "text": ""}
-{"image": "image_293.png", "text": ""}
-{"image": "image_294.png", "text": ""}
-{"image": "image_295.png", "text": ""}
-{"image": "image_296.png", "text": ""}
-{"image": "image_297.png", "text": ""}
-{"image": "image_298.png", "text": ""}
-{"image": "image_299.png", "text": ""}
-{"image": "image_300.png", "text": ""}
-{"image": "image_301.png", "text": ""}
-{"image": "image_302.png", "text": ""}
-{"image": "image_303.png", "text": ""}
-{"image": "image_304.png", "text": ""}
-{"image": "image_305.png", "text": ""}
-{"image": "image_306.png", "text": ""}
-{"image": "image_307.png", "text": ""}
-{"image": "image_308.png", "text": ""}
-{"image": "image_309.png", "text": ""}
-{"image": "image_310.png", "text": ""}
-{"image": "image_311.png", "text": ""}
-{"image": "image_312.png", "text": ""}
-{"image": "image_313.png", "text": ""}
-{"image": "image_314.png", "text": ""}
-{"image": "image_315.png", "text": ""}
-{"image": "image_316.png", "text": ""}
-{"image": "image_317.png", "text": ""}
-{"image": "image_318.png", "text": ""}
-{"image": "image_319.png", "text": ""}
-{"image": "image_321.png", "text": ""}
-{"image": "image_322.png", "text": ""}
-{"image": "image_323.png", "text": ""}
-{"image": "image_324.png", "text": ""}
-{"image": "image_325.png", "text": ""}
-{"image": "image_326.png", "text": ""}
-{"image": "image_327.png", "text": ""}
-{"image": "image_328.png", "text": ""}
-{"image": "image_329.png", "text": ""}
-{"image": "image_330.png", "text": ""}
-{"image": "image_331.png", "text": ""}
-{"image": "image_332.png", "text": ""}
-{"image": "image_333.png", "text": ""}
-{"image": "image_334.png", "text": ""}
-{"image": "image_335.png", "text": ""}
-{"image": "image_336.png", "text": ""}
-{"image": "image_337.png", "text": ""}
-{"image": "image_338.png", "text": ""}
-{"image": "image_339.png", "text": ""}
-{"image": "image_340.png", "text": ""}
-{"image": "image_341.png", "text": ""}
-{"image": "image_342.png", "text": ""}
-{"image": "image_343.png", "text": ""}
-{"image": "image_344.png", "text": ""}
-{"image": "image_345.png", "text": ""}
-{"image": "image_346.png", "text": ""}
-{"image": "image_347.png", "text": ""}
-{"image": "image_348.png", "text": ""}
+{"image": "image_291.png", "text": "trees, forest, mountains, hills, river"}
+{"image": "image_292.png", "text": "river, hills, trees, forest, mountains"}
+{"image": "image_293.png", "text": "forest, river, mountains"}
+{"image": "image_294.png", "text": "mountains, path, trees, hills"}
+{"image": "image_295.png", "text": "river, mountains, forest"}
+{"image": "image_296.png", "text": "forest, mountains, river"}
+{"image": "image_297.png", "text": "hills, trees, mountains, river"}
+{"image": "image_298.png", "text": "path, trees, mountains, forest"}
+{"image": "image_299.png", "text": "trees, river, forest, mountains"}
+{"image": "image_300.png", "text": "river, hills, birds, trees, forest, mountains"}
+{"image": "image_301.png", "text": "hills, river, forest, mountains, trees, birds"}
+{"image": "image_302.png", "text": "lake, mountains, forest, path, trees, hills"}
+{"image": "image_303.png", "text": "mountains, forest, river"}
+{"image": "image_304.png", "text": "birds, forest, trees, mountains"}
+{"image": "image_305.png", "text": "path, mountains, trees"}
+{"image": "image_306.png", "text": "river with waterfall, mountains, trees, forest"}
+{"image": "image_307.png", "text": "mountains, forest, path"}
+{"image": "image_308.png", "text": "trees, mountains, forest, river"}
+{"image": "image_309.png", "text": "forest, trees, river, mountains"}
+{"image": "image_310.png", "text": "mountains, lake, forest"}
+{"image": "image_311.png", "text": "trees, forest, hills, river, birds"}
+{"image": "image_312.png", "text": "hills, trees, mountains"}
+{"image": "image_313.png", "text": "river, forest, mountains, trees"}
+{"image": "image_314.png", "text": "mountains, trees, lake"}
+{"image": "image_315.png", "text": "path, forest, mountains, hills, birds"}
+{"image": "image_316.png", "text": "river, trees, mountains, forest"}
+{"image": "image_317.png", "text": "hills, mountains, trees, river"}
+{"image": "image_318.png", "text": "forest, mountains, path, trees, river, hills"}
+{"image": "image_319.png", "text": "river with waterfall, birds, forest, trees, hills, mountains"}
+{"image": "image_321.png", "text": "forest, trees, mountains, path"}
+{"image": "image_322.png", "text": "lake, mountains, hills, forest, trees"}
+{"image": "image_323.png", "text": "hills, river, mountains, forest, birds"}
+{"image": "image_324.png", "text": "trees, lake, forest, mountains"}
+{"image": "image_325.png", "text": "forest, path, mountains, hills"}
+{"image": "image_326.png", "text": "path, lake, hills, forest, mountains"}
+{"image": "image_327.png", "text": "mountains, birds, river, forest"}
+{"image": "image_328.png", "text": "lake, trees, mountains, birds, hills, path"}
+{"image": "image_329.png", "text": "river, trees, mountains"}
+{"image": "image_330.png", "text": "trees, path, hills, birds, mountains, forest"}
+{"image": "image_331.png", "text": "river, trees, mountains, forest, birds"}
+{"image": "image_332.png", "text": "mountains, forest, lake"}
+{"image": "image_333.png", "text": "forest, trees, mountains, river"}
+{"image": "image_334.png", "text": "mountains, birds, forest, river, hills, trees"}
+{"image": "image_335.png", "text": "mountains, hills, river, forest"}
+{"image": "image_336.png", "text": "forest, mountains, trees, hills, path"}
+{"image": "image_337.png", "text": "forest, mountains, river"}
+{"image": "image_338.png", "text": "mountains, hills, river with waterfall, trees, forest"}
+{"image": "image_339.png", "text": "river, mountains, forest"}
+{"image": "image_340.png", "text": "trees, mountains, forest, river"}
+{"image": "image_341.png", "text": "river with waterfall, mountains, trees, hills"}
+{"image": "image_342.png", "text": "hills, trees, mountains, river, forest"}
+{"image": "image_344.png", "text": "lake, mountains, forest"}
+{"image": "image_345.png", "text": "forest, river, path, hills"}
+{"image": "image_346.png", "text": "trees, hills, forest, river"}
+{"image": "image_348.png", "text": "birds, river, hills, mountains"}
 {"image": "image_350.png", "text": ""}
 {"image": "image_351.png", "text": ""}
 {"image": "image_352.png", "text": ""}
