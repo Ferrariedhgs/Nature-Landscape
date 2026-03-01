@@ -2,6 +2,8 @@ Synthetic nature landscape dataset made using the [SSD-1B](https://huggingface.c
 
 This dataset is hosted on [HuggingFace](https://huggingface.co/datasets/ferrariedhgs/Nature-Landscape)
 
+All images are labeled according to their content (mountains, forest, river, etc.)
+
 ## Usage
 ```python
 from datasets import load_dataset
@@ -36,5 +38,3 @@ Images were generated using:
 ## License
 Released under Apache 2.0 License, same as the model.
 
-## TODO
--description for each image
